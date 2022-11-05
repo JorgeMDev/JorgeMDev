@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Comming soon](Comming soon)
 
-- ⚡ Fun fact **I've watch harry potter and matrix saga more than 5 times xD**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
