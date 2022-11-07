@@ -3,23 +3,18 @@
 
 
 
-- 🔭 I’m currently working on **Habit tracker**
+- 🔭 I’m currently working on **CRM project / Personal Portfolio**
 
 - 🌱 I’m currently learning **computer science**
 
 - 👯 I’m looking to collaborate on **OPEN Source**
 
-- 🤝 I’m looking for help with **Scalability**
-
 - 👨‍💻 All of my projects are available at [https://jorgemdev.github.io/](https://jorgemdev.github.io/)
-
-- 📝 I regularly write articles on [Comming soon](Comming soon)
 
 - 💬 Ask me about **react, javascript, mongoDB, Node.js**
 
 - 📫 How to reach me **jorgemartinez1990@gmail.com**
 
-- 📄 Know about my experiences [Comming soon](Comming soon)
 
 
 
